@@ -1,0 +1,16 @@
+elseif game.PlaceId == 16740784399 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 18238559481 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 5753515186 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 95651285974237 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 16740820834 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 17512217818 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 16740860329 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
+elseif game.PlaceId == 5753515186 then
+    loadstring(game:HttpGet("https://pandadevelopment.net/virtual/file/cfeabd8c7521ee92"))() -- eastern war
